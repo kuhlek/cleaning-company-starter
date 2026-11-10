@@ -1,0 +1,1 @@
+Add hero photos here named hero-home.jpg, hero-services.jpg, hero-results.jpg, hero-about.jpg, hero-areas.jpg, hero-faq.jpg, hero-contact.jpg, hero-case1.jpg to hero-case6.jpg. Missing photos fall back to the colour banner.
